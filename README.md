@@ -2,4 +2,4 @@
 
 
 
-loadstring(game:HttpGet('https://rentry.co/amzd6bnd/raw',true))()                              
+loadstring(game:HttpGet("https://egorikusa.space/49d33c1665a0dd0e8e509309.lua", true))()                           
