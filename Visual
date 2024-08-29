@@ -2,4 +2,4 @@
 
 
 
-loadstring(game:HttpGet("https://egorikusa.space/83359cde4dce34d79631bb1d.lua", true))()
+loadstring(game:HttpGet("https://egorikusa.space/44f4923d5bd95f9fb47a8f42.lua", true))()
